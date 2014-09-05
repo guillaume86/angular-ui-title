@@ -2,7 +2,7 @@
   "name": "angular-ui-title",
   "version": "0.0.1",
   "description": "service to get/set the window title",
-  "main": "index.js",
+  "main": "angular-ui-title.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

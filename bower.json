@@ -1,0 +1,22 @@
+{
+  "name": "angular-ui-title",
+  "main": "angular-ui-title.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/guillaume86/angular-ui-title",
+  "authors": [
+    "Guillaume Lecomte <guillaume86@gmail.com>"
+  ],
+  "description": "angular service to access document title",
+  "keywords": [
+    "angular",
+    "title"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
